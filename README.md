@@ -12,7 +12,7 @@ O super trunfo é uma aplicação Front end que fizemos na imersão DEV, evento 
 
 ## Layout web
 
-![Web 1]()
+![Web 1](https://media4.giphy.com/media/pg2F5A56WGSwnD2jb1/giphy.gif?cid=790b76111f20c78adb676894083eeae75ae66f2ee79d1510&rid=giphy.gif&ct=g)
 
 
 # Tecnologias utilizadas
