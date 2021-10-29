@@ -25,5 +25,5 @@ O super trunfo é uma aplicação Front end que fizemos na imersão DEV, evento 
 # Autor
 Álisson josé de Santana
 
-https://www.linkedin.com/in/%C3%A1lisson-santana-ba594b1a5/
+https://www.linkedin.com/in/%C3%A1lisson-santana-frontend/
 
