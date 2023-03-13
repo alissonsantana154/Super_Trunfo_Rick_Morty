@@ -5,7 +5,7 @@
 
 https://alissonsantana154.github.io/Super_Trunfo_Rick_Morty/
 
-O super trunfo é um jogo de cartas que o jogador e á maquina dispultam para ver quem é o ganhador, ambus pegam uma carta no barrario e escolhem os atributos de 0 á 10 para ver qual  é o maior.
+O Super Trunfo é um jogo de cartas que o jogador e á maquina dispultam para ver quem é o ganhador, ambus pegam uma carta no barrario e escolhem os atributos de 0 á 10 para ver qual  é o maior.
 
 O super trunfo é uma aplicação Front end que fizemos na imersão DEV, evento organizado pela [Alura](https://www.alura.com.br/ "Site alura ").
 
